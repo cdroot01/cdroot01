@@ -9,7 +9,7 @@ I love building things that make a difference and solve real-world problems.
 
 ## Language
 
-- JavaScript
+- JavaScript, Vue
 - Golang
 
 
