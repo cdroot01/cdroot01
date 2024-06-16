@@ -1,16 +1,32 @@
+# cdroot01
+
 ## Hi there 👋
 
+I love building things that make a difference and solve real-world problems.
+
+- 🔭 I’m currently working on fulltime opensource
+- 🌱 I'm currently learning everything that impresses me
+
+## Language
+
+- JavaScript
+- Golang
+
+
+## Open Source Contributions
+
+Here are some of my notable open source contributions:
+- project a
+- project b
 <!--
-**cdroot01/cdroot01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Project name](https://github.com/<username>/<project name>): [brief description of contribution]
+- [Project name](https://github.com/<username>/<project name>): [brief description of contribution]
+-->
 
-Here are some ideas to get you started:
+<!--
+## Get in Touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Personal website: [pularbacc.github.io](https://pularbacc.github.io)
+- Twitter: [@pularbacc](https://twitter.com/pularbacc)
+- Email: pularbacc@proton.me
 -->
